@@ -3,4 +3,8 @@
     <string name="number_1">Number 1</string>
     <string name="number_2">Number 2</string>
     <string name="o_k">OK</string>
+    <string name="plus_">+</string>
+    <string name="minus_">-</string>
+    <string name="multiyply">*</string>
+    <string name="divide_">/</string>
 </resources>
